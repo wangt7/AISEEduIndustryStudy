@@ -1,1 +1,1 @@
-This repository contains the survey instrument for the study "Exploring the Integration of Generative AI into Software Engineering Education: Industry Perspectives on Workflows and Knowledge Areas." The file Survey_Instrument.pdf contains the survey questions distributed to participants.
+This repository contains the survey instrument for the study "Exploring the Integration of Generative AI into Software Engineering Education: Industry Perspectives on Workflows and Knowledge Areas." The file Survey Instrument.pdf contains the survey questions distributed to participants.
